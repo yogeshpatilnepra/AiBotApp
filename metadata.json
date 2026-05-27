@@ -1,0 +1,6 @@
+{
+  "name": "InterviewPilot AI",
+  "description": "AI-powered interview preparation operating system for students, freshers, and professionals. Features roadmap, daily planner, flashcards, quizes, AI interview, and voice coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
